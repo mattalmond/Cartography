@@ -1,0 +1,64 @@
+[general]
+creator=R package 'raster'
+created=2011-11-12 14:58:41
+
+[georeference]
+nrows=1332
+ncols=1272
+xmin=-8.7
+ymin=49.8
+xmax=1.9
+ymax=60.9
+projection=+proj=longlat +ellps=WGS84
+
+[data]
+datatype=INT1U
+byteorder=little
+nbands=1
+bandorder=BIL
+categorical=FALSE
+minvalue=2
+maxvalue=22
+nodatavalue=-9999
+
+[description]
+layername=GBR_cov
+history=
+
+[ContLegend]
+Count=2
+Color1=16711680
+Value1=2
+Label1=
+Color2=255
+Value2=22
+Label2=
+
+[Legend]
+Count=5
+Color1=32768
+Min1=2
+Max1=6
+Label1=2 - 6
+Color2=65280
+Min2=6
+Max2=10
+Label2=6 - 10
+Color3=65535
+Min3=10
+Max3=14
+Label3=10 - 14
+Color4=38655
+Min4=14
+Max4=18
+Label4=14 - 18
+Color5=255
+Min5=18
+Max5=22
+Label5=18 - 22
+Transparent=0
+NoDataColor=0
+NoDataLabel=No Data
+isContinuous=0
+SpacedByColor=0
+

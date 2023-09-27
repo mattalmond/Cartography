@@ -1,0 +1,64 @@
+[general]
+creator=R package 'raster'
+created=2011-11-12 16:19:35
+
+[georeference]
+nrows=500
+ncols=458
+xmin=-8.26666666666667
+ymin=49.9
+xmax=1.84166666666667
+ymax=60.9333333333333
+projection=+proj=longlat +datum=WGS84 +ellps=WGS84 +towgs84=0,0,0
+
+[data]
+datatype=INT2S
+byteorder=little
+nbands=1
+bandorder=BIL
+categorical=FALSE
+minvalue=2
+maxvalue=10249
+nodatavalue=-9999
+
+[description]
+layername=gbr_pop
+history=
+
+[ContLegend]
+Count=2
+Color1=16711680
+Value1=2
+Label1=
+Color2=255
+Value2=10249
+Label2=
+
+[Legend]
+Count=5
+Color1=32768
+Min1=2
+Max1=2051
+Label1=2 - 2051
+Color2=65280
+Min2=2051
+Max2=4101
+Label2=2051 - 4101
+Color3=65535
+Min3=4101
+Max3=6150
+Label3=4101 - 6150
+Color4=38655
+Min4=6150
+Max4=8200
+Label4=6150 - 8200
+Color5=255
+Min5=8200
+Max5=10249
+Label5=8200 - 10249
+Transparent=0
+NoDataColor=0
+NoDataLabel=No Data
+isContinuous=0
+SpacedByColor=0
+

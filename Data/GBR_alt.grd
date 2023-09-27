@@ -1,0 +1,64 @@
+[general]
+creator=R package 'raster'
+created=2011-11-12 14:28:59
+
+[georeference]
+nrows=1332
+ncols=1272
+xmin=-8.7
+ymin=49.8
+xmax=1.9
+ymax=60.9
+projection=+proj=longlat +ellps=WGS84
+
+[data]
+datatype=INT2S
+byteorder=little
+nbands=1
+bandorder=BIL
+categorical=FALSE
+minvalue=-8
+maxvalue=1248
+nodatavalue=-9999
+
+[description]
+layername=GBR_alt
+history=
+
+[ContLegend]
+Count=2
+Color1=16711680
+Value1=-8
+Label1=
+Color2=255
+Value2=1248
+Label2=
+
+[Legend]
+Count=5
+Color1=32768
+Min1=-8
+Max1=243
+Label1=-8 - 243
+Color2=65280
+Min2=243
+Max2=494
+Label2=243 - 494
+Color3=65535
+Min3=494
+Max3=746
+Label3=494 - 746
+Color4=38655
+Min4=746
+Max4=997
+Label4=746 - 997
+Color5=255
+Min5=997
+Max5=1248
+Label5=997 - 1248
+Transparent=0
+NoDataColor=0
+NoDataLabel=No Data
+isContinuous=0
+SpacedByColor=0
+
